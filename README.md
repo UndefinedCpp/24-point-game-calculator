@@ -12,6 +12,3 @@ Up till now it has only one file and 93 lines in total. It uses enumeration and 
 ## Bugs known
 1. It can only calculate sequenced expressions.<br>
 &nbsp;&nbsp;_Example_: for numbers 2,2,3,3 it can't give an answer. But (2+2)x(3+3) is 24.
-## [赞助我们!](https://afdian.net/@i1903) (China only)
-<b>Chinese Users Only! 仅限中国区域！</b>
-[点我赞助](https://afdian.net/@i1903)！
